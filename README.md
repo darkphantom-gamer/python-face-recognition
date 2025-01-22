@@ -15,9 +15,9 @@ just use this:-
 
       pip install -r requirements.txt
 
-#If u encounter error then u need to install dilb.. HOW? 
+ If u encounter error then u need to install dilb.. HOW? 
 
- #I did all the work so u dont have to 😊
+ # I did all the work so u dont have to 😊
 
 navigate to Dilb_windows folder and in the top bar type powershell so a new window will appear
 
@@ -41,7 +41,7 @@ and at last
 ![Proof](https://github.com/darkphantom-gamer/python-face-recognition/blob/347f6c040cd6f004c72899f3a45a24202b0eaab0/tesla.png)
 ![Proof](https://github.com/darkphantom-gamer/python-face-recognition/blob/372577f8a455b77ad5bce99b8f6d5a4d0f67f31f/Xcel.png)
 
-#DONOT TOUCH THE DOCKERFILE AND DOCKER-COMPOSE.YML FILE AT ALL!!!!
+# DONOT TOUCH THE DOCKERFILE AND DOCKER-COMPOSE.YML FILE AT ALL!!!!
 
 For Ubuntu/Debian linux
 
