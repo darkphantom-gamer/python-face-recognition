@@ -23,22 +23,21 @@ navigate to Dilb_windows folder and in the top bar type powershell so a new wind
 now just type 
 
     pip install < the package according to your version >
-Eg
-   pip install dlib-19.24.99-cp312-cp312-win_amd64   #or python 3.12
 
+#Example
+     pip install dlib-19.24.99-cp312-cp312-win_amd64  
 after then just type
 
-  pip install -r requirements.txt to finish 
+    pip install -r requirements.txt     
 
 AFter which you need to edit the main.py according to your need ..
 
 suppose image location
 and at last
 
-python main.py
+    python main.py
 
 ![image-alt]('https://github.com/darkphantom-gamer/python-face-recognition/blob/347f6c040cd6f004c72899f3a45a24202b0eaab0/tesla.png')
-![2nd Proof]('https://github.com/darkphantom-gamer/python-face-recognition/blob/main/Xcel.png/img.jpg?raw=true')
 
 
 #DONOT TOUCH THE DOCKERFILE AND DOCKER-COMPOSE.YML FILE AT ALL!!!!
