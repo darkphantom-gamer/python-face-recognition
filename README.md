@@ -44,3 +44,34 @@ and at last
 
 # Also please visit my website https://gainways.online :)
 
+For Ubuntu/Debian linux
+
+Steps for Ubuntu Setup
+
+Update the System:
+
+sudo apt update && sudo apt upgrade
+Install Python: Make sure Python 3.10 or 3.12 is installed:
+
+     sudo apt install python3 python3-pip
+Install Dependencies:
+
+Install build tools and libraries required for dlib and face_recognition:
+
+      sudo apt install build-essential cmake
+      sudo apt install libopenblas-dev liblapack-dev
+      sudo apt install libx11-dev libgtk-3-dev
+      sudo apt install libboost-python-dev
+Install pip dependencies:
+
+    pip3 install opencv-python face_recognition dlib
+Clone the Repository:
+
+    git clone https://github.com/darkphantom-gamer/python-face-recognition.git
+cd python-face-recognition
+Run the Script:
+
+Edit the script if necessary using a text editor like nano or vim.
+Run the script:
+
+     python3 main.py
