@@ -50,7 +50,7 @@ Steps for Ubuntu Setup
 
 Update the System:
 
-sudo apt update && sudo apt upgrade
+     sudo apt update && sudo apt upgrade
 Install Python: Make sure Python 3.10 or 3.12 is installed:
 
      sudo apt install python3 python3-pip
