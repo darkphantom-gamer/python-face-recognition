@@ -1,4 +1,6 @@
+YO
 Greetings from Himkamal Gohain
+
 # python-face-recognition
 1) clone the repository (Install git first) then paste this
 
@@ -73,4 +75,6 @@ Edit the script if necessary using a text editor like nano or vim.
 Run the script:
 
      python3 main.py
-# Also please visit my website https://gainways.online :)
+# Also please visit my website https://gainways.online 🥲
+
+#Have a Good day Mate 😊 
