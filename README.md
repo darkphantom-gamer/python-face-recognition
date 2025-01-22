@@ -17,7 +17,7 @@ just use this:-
 
  If u encounter error then u need to install dilb.. HOW? 
 
- # I did all the work so u dont have to 😊
+ # I did all the work so u don't have to 😊
 
 4. navigate to <mark> Dilb_windows</mark> folder and in the top bar type powershell so a new window will appear
 
