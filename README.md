@@ -42,8 +42,6 @@ and at last
 
 #DONOT TOUCH THE DOCKERFILE AND DOCKER-COMPOSE.YML FILE AT ALL!!!!
 
-# Also please visit my website https://gainways.online :)
-
 For Ubuntu/Debian linux
 
 Steps for Ubuntu Setup
@@ -75,3 +73,4 @@ Edit the script if necessary using a text editor like nano or vim.
 Run the script:
 
      python3 main.py
+# Also please visit my website https://gainways.online :)
