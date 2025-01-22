@@ -1,15 +1,15 @@
 YO..Greetings from Himkamal Gohain
 
 # python-face-recognition for windows 
-1) clone the repository (Install git first) then paste this
+1. clone the repository (Install git first) then paste this
 
        git clone https://github.com/darkphantom-gamer/python-face-recognition
    
 in the windows powershell 
 
-2)First you have to install python 3.10 or 3.12 You can easily get from VScode marketplace
+2. First you have to install python 3.10 or 3.12 You can easily get from VScode marketplace
 
-3)Install opencv-python and face_recognition
+3. Install opencv-python and face_recognition
 
 just use this:-
 
@@ -19,7 +19,7 @@ just use this:-
 
  # I did all the work so u dont have to 😊
 
-navigate to Dilb_windows folder and in the top bar type powershell so a new window will appear
+4. navigate to Dilb_windows folder and in the top bar type powershell so a new window will appear
 
 now just type 
 
@@ -31,7 +31,7 @@ after then just type
 
     pip install -r requirements.txt     
 
-AFter which you need to edit the main.py according to your need Eg.. image location
+5. AFter which you need to edit the main.py according to your need Eg.. image location
 
 and at last
 
@@ -46,28 +46,28 @@ and at last
 
 Steps for Ubuntu Setup
 
-Update the System:
+1. Update the System:
 
-     sudo apt update && sudo apt upgrade
-Install Python: Make sure Python 3.10 or 3.12 is installed:
+       sudo apt update && sudo apt upgrade
+2. Install Python: Make sure Python 3.10 or 3.12 is installed:
 
-     sudo apt install python3 python3-pip
+        sudo apt install python3 python3-pip
 Install Dependencies:
 
-Install build tools and libraries required for dlib and face_recognition:
+3. Install build tools and libraries required for dlib and face_recognition:
 
-      sudo apt install build-essential cmake
-      sudo apt install libopenblas-dev liblapack-dev
-      sudo apt install libx11-dev libgtk-3-dev
-      sudo apt install libboost-python-dev
-Install pip dependencies:
+         sudo apt install build-essential cmake
+         sudo apt install libopenblas-dev liblapack-dev
+         sudo apt install libx11-dev libgtk-3-dev
+         sudo apt install libboost-python-dev
+4. Install pip dependencies:
 
-    pip3 install opencv-python face_recognition dlib
-Clone the Repository:
+       pip3 install opencv-python face_recognition dlib
+5. Clone the Repository:
 
-    git clone https://github.com/darkphantom-gamer/python-face-recognition.git
-cd python-face-recognition
-Run the Script:
+       git clone https://github.com/darkphantom-gamer/python-face-recognition.git
+       cd python-face-recognition
+6. Run the Script:
 
 Edit the script if necessary using a text editor like nano or vim.
 Run the script:
