@@ -9,7 +9,7 @@ in the windows powershell
 
 2. First you have to install python 3.10 or 3.12 You can easily get from VScode marketplace
 
-3. Install opencv-python and face_recognition
+3. Install <mark>opencv-python and face_recognition</mark>
 
 just use this:-
 
