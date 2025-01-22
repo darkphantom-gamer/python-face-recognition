@@ -1,6 +1,6 @@
 YO..Greetings from Himkamal Gohain
 
-# python-face-recognition
+# python-face-recognition for windows 
 1) clone the repository (Install git first) then paste this
 
        git clone https://github.com/darkphantom-gamer/python-face-recognition
@@ -41,9 +41,9 @@ and at last
 ![Proof](https://github.com/darkphantom-gamer/python-face-recognition/blob/347f6c040cd6f004c72899f3a45a24202b0eaab0/tesla.png)
 ![Proof](https://github.com/darkphantom-gamer/python-face-recognition/blob/372577f8a455b77ad5bce99b8f6d5a4d0f67f31f/Xcel.png)
 
-# DONOT TOUCH THE DOCKERFILE AND DOCKER-COMPOSE.YML FILE AT ALL!!!!
+! DONOT TOUCH THE DOCKERFILE AND DOCKER-COMPOSE.YML FILE AT ALL!!!!
 
-For Ubuntu/Debian linux
+# For Ubuntu/Debian linux
 
 Steps for Ubuntu Setup
 
