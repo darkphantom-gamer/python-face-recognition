@@ -19,14 +19,14 @@ just use this:-
 
  # I did all the work so u dont have to 😊
 
-4. navigate to Dilb_windows folder and in the top bar type powershell so a new window will appear
+4. navigate to <mark> Dilb_windows</mark> folder and in the top bar type powershell so a new window will appear
 
 now just type 
 
     pip install < the package according to your version >
 
 #Example
-     pip install dlib-19.24.99-cp312-cp312-win_amd64  
+  <mark> pip install dlib-19.24.99-cp312-cp312-win_amd64  </mark>
 after then just type
 
     pip install -r requirements.txt     
