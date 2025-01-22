@@ -15,9 +15,9 @@ just use this:-
 
       pip install -r requirements.txt
 
-If u encounter error then u need to install dilb.. HOW? 
+#If u encounter error then u need to install dilb.. HOW? 
 
- I did all the work so u dont have to :)
+ #I did all the work so u dont have to 😊
 
 navigate to Dilb_windows folder and in the top bar type powershell so a new window will appear
 
