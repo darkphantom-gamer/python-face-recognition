@@ -1,5 +1,4 @@
-YO
-Greetings from Himkamal Gohain
+YO..Greetings from Himkamal Gohain
 
 # python-face-recognition
 1) clone the repository (Install git first) then paste this
