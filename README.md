@@ -31,9 +31,8 @@ after then just type
 
     pip install -r requirements.txt     
 
-AFter which you need to edit the main.py according to your need ..
+AFter which you need to edit the main.py according to your need Eg.. image location
 
-suppose image location
 and at last
 
     python main.py
