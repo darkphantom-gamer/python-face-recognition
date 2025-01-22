@@ -36,7 +36,7 @@ suppose image location
 and at last
 
 python main.py
-![add text](https://github.com/darkphantom-gamer/python-face-recognition/img.jpg?raw=true)
+![Proof](https://github.com/darkphantom-gamer/python-face-recognition/Screenshot 2025-01-23 002205.png/img.jpg?raw=true)
 
 #DONOT TOUCH THE DOCKERFILE AND DOCKER-COMPOSE.YML FILE AT ALL!!!!
 
