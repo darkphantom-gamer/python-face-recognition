@@ -1,0 +1,14 @@
+version: "3.8"
+
+services:
+  face_recognition_system:
+    build: .
+    container_name: face_recognition_system
+    volumes:
+      - .:/app  # Mount the current directory to /app in the container
+    ports:
+      - "5000:5000"  # If your app needs to expose a port (optional)
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: always
+    runtime: nvidia  # If you're using GPU, this enables CUDA support
