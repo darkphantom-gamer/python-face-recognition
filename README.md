@@ -37,7 +37,7 @@ and at last
 
     python main.py
 
-![image-alt]('https://github.com/darkphantom-gamer/python-face-recognition/blob/347f6c040cd6f004c72899f3a45a24202b0eaab0/tesla.png')
+![Proof](https://github.com/darkphantom-gamer/python-face-recognition/blob/347f6c040cd6f004c72899f3a45a24202b0eaab0/tesla.png)
 
 
 #DONOT TOUCH THE DOCKERFILE AND DOCKER-COMPOSE.YML FILE AT ALL!!!!
