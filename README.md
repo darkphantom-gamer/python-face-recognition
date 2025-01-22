@@ -76,4 +76,4 @@ Run the script:
      python3 main.py
 # Also please visit my website https://gainways.online 🥲
 
-#Have a Good day Mate 😊 
+# Have a Good day Mate 😊 
