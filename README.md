@@ -7,7 +7,7 @@ YO..Greetings from Himkamal Gohain
    
 in the windows powershell 
 
-2. First you have to install python 3.10 or 3.12 You can easily get from VScode marketplace
+2. First you have to install python 3.10 or 3.12 You can easily get from VScode marketplace <B> <a href=https://www.python.org/downloads/release/python-3120/> Official Link </a>  </B> 
 
 3. Install <mark>opencv-python and face_recognition</mark>
 
