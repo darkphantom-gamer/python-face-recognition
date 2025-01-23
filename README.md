@@ -40,7 +40,7 @@ and at last
 ![Proof](https://github.com/darkphantom-gamer/python-face-recognition/blob/347f6c040cd6f004c72899f3a45a24202b0eaab0/tesla.png)
 ![Proof](https://github.com/darkphantom-gamer/python-face-recognition/blob/372577f8a455b77ad5bce99b8f6d5a4d0f67f31f/Xcel.png)
 
-<B>!DONOT TOUCH THE DOCKERFILE AND DOCKER-COMPOSE.YML AND THE LICENSE.TXT FILE AT ALL!!!!</B>
+<B>!!!Donot Touch the Dockerfile,Docker-compose.yml and the License.txt AT ALL!!!</B>
 
 # For Ubuntu/Debian linux
 
