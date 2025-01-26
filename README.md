@@ -76,3 +76,4 @@ Run the script:
 # Also please visit my website https://gainways.online 🥲
 
 # Have a Good day Mate 😊 
+<B>My next comit will be a AI port scanning tool with gui and ofcourse using NMAP the goat!!</B>
