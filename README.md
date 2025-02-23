@@ -73,7 +73,7 @@ Edit the script if necessary using a text editor like nano or vim.
 Run the script:
 
      python3 main.py
-# Also please visit my website https://gainways.online 🥲
+# Also please visit my website https://thegainway.com 🥲
 
 # Have a Good day Mate 😊 
 <B>My next comit will be a AI port scanning tool with gui and ofcourse using NMAP the goat!!</B>
